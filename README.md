@@ -1,7 +1,7 @@
 
 Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with a minor in Mass Communications. As a Cognitive Science major, I analyze a lot of data stories and statistics, so it is really important that the data is organized in a concise manner. Additionally, it is beneficial to the reader to have the data presented in a clear format in which pictures and interactions grasp the reader.
 
-<img src="https://user-images.githubusercontent.com/78562875/118189218-81325280-b40f-11eb-8f57-59af6634bc60.jpeg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/78562875/118189218-81325280-b40f-11eb-8f57-59af6634bc60.jpeg" width="250" height="200">
 
 ## **Here are links to my LinkedIn profile and the CogSci department website:**
 
