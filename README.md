@@ -3,7 +3,7 @@ Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with 
 
 ![IMG_0082](https://user-images.githubusercontent.com/78562875/118189218-81325280-b40f-11eb-8f57-59af6634bc60.jpeg)
 
-## **Here are links to both my social profile and the CogSci department website:**
+## **Here are links to my LinkedIn profile and the CogSci department website:**
 
 [LinkedIn](https://www.linkedin.com/in/falyn-goldstein)
 
