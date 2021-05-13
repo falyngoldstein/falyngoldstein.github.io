@@ -6,6 +6,7 @@ Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with 
 ## **Here are links to both my social profile and the CogSci department website:**
 
 [LinkedIn](https://www.linkedin.com/in/falyn-goldstein)
+
 [CogSci Website](https://cogsci.cas.lehigh.edu/)
 
 ## **Data Wrapper**
