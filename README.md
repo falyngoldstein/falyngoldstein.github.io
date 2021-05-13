@@ -1,10 +1,10 @@
 # falyngoldstein.github.io
 
-![image](https://media-exp1.licdn.com/dms/image/C4E03AQF29-lajDRYZw/profile-displayphoto-shrink_400_400/0/1531350084619?e=1623283200&v=beta&t=PSxA6R5n5bcIHkWQ8obnYiylw3kt1O8E5IS7b4WMbR0)
+Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with a minor in Mass Communications. As a Cognitive Science major, I analyze a lot of data stories and statistics, so it is really important that the data is organized in a concise manner. Additionally, it is beneficial to the reader to have the data presented in a clear format in which pictures and interactions grasp the reader.
 
-My name is Falyn Goldstein and I'm a junior studying Cognitive Science with a minor in Mass Communications.
+![image](https://www.linkedin.com/in/falyn-goldstein)
 
-Here are links to both my social profile and the CogSci department website:
+**Here are links to both my social profile and the CogSci department website:**
 [LinkedIn](https://www.linkedin.com/in/falyn-goldstein)
 [CogSci Website](https://cogsci.cas.lehigh.edu/)
 
