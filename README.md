@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/78562875/118189218-81325280-b40f-11eb-8f57-59af6634bc60.jpeg" width="210" height="200">
 
-Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with a minor in Mass Communications. As a                                                 Cognitive Science major, I analyze a lot of data stories and statistics, so it is really important that the data is                                                 organized in a concise manner. Additionally, it is beneficial to the reader to have the data presented in a clear                                                   format in which pictures and interactions grasp the reader.
+Hi! My name is Falyn Goldstein and I am a junior studying Cognitive Science with a minor in Mass Communications. As a                                                 Cognitive Science major, I analyze a lot of data stories and statistics, so it is really important that the data is                                                 organized in a concise manner. Additionally, it is beneficial to the reader to have the data presented in a clear                                                   format in which pictures and interactions grasp the reader.
 
 
 ## Here are links to my LinkedIn profile and the CogSci department website:
@@ -12,7 +12,7 @@ Hi! My name is Falyn Goldstein and I'm a junior studying Cognitive Science with 
 
 ## Google Tour
 
-This Google Tour gives you a little insight to my life in Miami, FL! At the end of my eigth grade year, my family moved all the way down to Florida from New York and it was one of the greatest experiences of my life. Being surrounded by water, I decided to join the crew team and become a coxswain. I dedicated myself to this position and ended up getting recruited to Lehigh!
+This Google Tour gives you a little insight into my life in Miami, FL! At the end of my eigth grade year, my family moved all the way down to Florida from New York, and it was one of the greatest experiences of my life. Being surrounded by water, I decided to join the crew team and become a coxswain. I dedicated myself to this position and ended up getting recruited to Lehigh! I hope you enjoy my Google tour and learning a little more about my experience there.
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/eyjGyUxHF9X/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
@@ -36,7 +36,7 @@ This interactive map shows data scraped from Twitter USA focused around Tweets r
 
 ## Tableau Data
 
-For the Tableau graphs, I wanted to continue looking at the gender pay gap in sports, so I looked at how gender differences play a role in hockey. The graphs compared U.S. and Canadian hockey players to see the percentage of male vs. female players in addition to how gender plays a role in specific positions.
+For the Tableau graphs, I wanted to continue looking at the gender pay gap in sports. I looked at how gender differences play a role in hockey in the U.S. compared to Canada. The graphs compared U.S. and Canadian hockey players to see the percentage of male vs. female players in addition to how gender plays a role in specific positions. Overall, there was a larger percentage of male players vs. female, but the positions did not differ much in gender dominance which I thought was interesting.
 
 <div class='tableauPlaceholder' id='viz1618254387163' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HockeyDatabyGenderandCountry&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HockeyDatabyGenderandCountry&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HockeyDatabyGenderandCountry&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div> <script type='text/javascript'>       var divElement = document.getElementById('viz1618254387163'); var vizElement = divElement.getElementsByTagName('object')[0];       if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
